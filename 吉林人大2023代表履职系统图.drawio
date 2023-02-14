@@ -1,1 +1,72 @@
-<mxfile host="app.diagrams.net" modified="2023-02-14T02:16:37.164Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.76" version="20.8.20" etag="iurgJlfODJDI5FlqkGUx" type="github"><diagram name="第 1 页" id="pQDVxM2M9dCHp5uxvHCa">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-02-14T03:33:47.425Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.76" etag="PujPJNOHiwuOlr1WteuX" version="20.8.20" type="github" pages="2">
+  <diagram name="第 1 页" id="pQDVxM2M9dCHp5uxvHCa">
+    <mxGraphModel dx="1070" dy="815" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="JEAbACyAYDQi8RaKUkbI-2" value="“”一网通“”平台基础服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="120" y="520" width="520" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JEAbACyAYDQi8RaKUkbI-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="410" width="320" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="JEAbACyAYDQi8RaKUkbI-5" value="电子阅文" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="140" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JEAbACyAYDQi8RaKUkbI-6" value="立法基层联络" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="294" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JEAbACyAYDQi8RaKUkbI-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="410" width="190" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="JEAbACyAYDQi8RaKUkbI-7" value="机关应用" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="485" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JEAbACyAYDQi8RaKUkbI-9" value="“”一网通“”平台统一入口" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="120" y="340" width="520" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JEAbACyAYDQi8RaKUkbI-10" value="统一认证" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="50" y="340" width="60" height="230" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="ntfk-knJC145wX_8kQLO" name="第 2 页">
+    <mxGraphModel dx="1070" dy="815" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="UMUxru8z18m9kWlNGcS6-9" value="“”一网通“”平台基础服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="130" y="570" width="520" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UMUxru8z18m9kWlNGcS6-10" value="业务系统" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="130" y="460" width="360" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="UMUxru8z18m9kWlNGcS6-13" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="460" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="UMUxru8z18m9kWlNGcS6-15" value="客户端适配层" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="130" y="340" width="520" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UMUxru8z18m9kWlNGcS6-16" value="统一认证" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="60" y="340" width="60" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="UMUxru8z18m9kWlNGcS6-17" value="其他客户端" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="230" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UMUxru8z18m9kWlNGcS6-20" value="国产化客户端" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="230" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UMUxru8z18m9kWlNGcS6-22" value="统一入口页面" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="130" y="400" width="520" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UMUxru8z18m9kWlNGcS6-23" value="&lt;b&gt;代表履职数据接口&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="533" y="465" width="94" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UMUxru8z18m9kWlNGcS6-25" value="&lt;b&gt;代表履职数据接口&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="533" y="513" width="94" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
